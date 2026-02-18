@@ -188,6 +188,7 @@ saveUserInputs(task.id, [newMatchedIndexes]);
         >
           ⏹️
         </button>
+        
       </div>
     </div>
   );
