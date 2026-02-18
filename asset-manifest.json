@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/barmaley2/static/css/main.b9713a26.css",
-    "main.js": "/barmaley2/static/js/main.4c50e881.js",
+    "main.css": "/barmaley2/static/css/main.5677678a.css",
+    "main.js": "/barmaley2/static/js/main.c476954e.js",
     "static/js/453.d37bcb50.chunk.js": "/barmaley2/static/js/453.d37bcb50.chunk.js",
     "index.html": "/barmaley2/index.html",
-    "main.b9713a26.css.map": "/barmaley2/static/css/main.b9713a26.css.map",
-    "main.4c50e881.js.map": "/barmaley2/static/js/main.4c50e881.js.map",
+    "main.5677678a.css.map": "/barmaley2/static/css/main.5677678a.css.map",
+    "main.c476954e.js.map": "/barmaley2/static/js/main.c476954e.js.map",
     "453.d37bcb50.chunk.js.map": "/barmaley2/static/js/453.d37bcb50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9713a26.css",
-    "static/js/main.4c50e881.js"
+    "static/css/main.5677678a.css",
+    "static/js/main.c476954e.js"
   ]
 }
